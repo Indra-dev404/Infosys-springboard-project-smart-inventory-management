@@ -140,7 +140,7 @@ db.password=your_password
 ## 📧 Contact
 
 **Indrajit Biswas**
-📩 [your-email@example.com](mailto:your-email@example.com)
+📩 [indrajitbiswaspersonal@gmail.com](mailto:indrajitbiswaspersonal@gmail.com)
 
 ---
 
